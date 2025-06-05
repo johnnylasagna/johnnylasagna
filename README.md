@@ -12,3 +12,4 @@ This is an archive of all the stuff i've been working on lately
 
 - A program in C that prints fibonacci numbers of any length
 - A custom lyric video generator using raylib in c++ for one of my songs
+- A calendar app that displays the current month
