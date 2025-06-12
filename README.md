@@ -7,9 +7,10 @@ This is an archive of all the stuff i've been working on lately
 ## Current projects:
 
 - Writing basic ML algorithms from scratch using NumPy based on Andrew NG's courses
+- Realtime note detection to sync visuals during a performance
 
 ## Completed projects:
 
 - A program in C that prints fibonacci numbers of any length
-- A custom lyric video generator using raylib in c++ for one of my songs
+- Song visualizer using raylib in c++ for one of my songs
 - A calendar app that displays the current month
