@@ -8,6 +8,7 @@ This is an archive of all the stuff i've been working on lately
 
 - Writing basic ML algorithms from scratch using NumPy based on Andrew NG's courses
 - Realtime note detection to sync visuals during a performance
+- A blog to rank albums I've listened to
 
 ## Completed projects:
 
