@@ -12,7 +12,7 @@ This is an archive of all the stuff i've been working on lately
 
 ## Completed projects:
 
+- A blog to rate albums I've listened to using react and firebase
 - A program in C that prints fibonacci numbers of any length
 - Song visualizer using raylib in c++ for one of my songs
 - A calendar app that displays the current month
-- A blog to rate albums I've listened to using react and firebase
