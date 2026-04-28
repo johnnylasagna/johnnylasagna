@@ -6,13 +6,10 @@ This is an archive of all the stuff i've been working on lately
 
 ## Current projects:
 
-- Writing basic ML algorithms from scratch using NumPy based on Andrew NG's courses
-- Realtime note detection to sync visuals during a performance
-- Deep learning projects using torch
+- File transfer app over LAN
 
 ## Completed projects:
 
 - A blog to rate albums I've listened to using react and firebase
-- A program in C that prints fibonacci numbers of any length
-- Song visualizer using raylib in c++ for one of my songs
-- A calendar app that displays the current month
+- Song visualizer using raylib in c++ for two of my songs
+- Deep Learning projects using pytorch
