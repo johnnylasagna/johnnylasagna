@@ -6,7 +6,9 @@ This is an archive of all the stuff i've been working on lately
 
 ## Current projects:
 
+- Rust implementation of sqlite
 - File transfer app over LAN
+- Chat Server and game app over LAN
 
 ## Completed projects:
 
