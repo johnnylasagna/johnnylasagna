@@ -12,6 +12,7 @@ This is an archive of all the stuff i've been working on lately
 
 ## Completed projects:
 
+- A website that lets you guess songs from your youtube playlist
 - A blog to rate albums I've listened to using react and firebase
-- Song visualizer using raylib in c++ for two of my songs
+- Song visualizer using raylib in c++ for two of my original songs
 - Deep Learning projects using pytorch
